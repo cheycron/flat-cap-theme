@@ -1,6 +1,6 @@
 # Flat Cap - A Minimal & Modern Theme
 
-![Flat Cap Theme Preview](images/flatcap.svg)
+![Flat Cap Theme Preview](images/readme_logo.svg)
 
 Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused coding experience.
 
