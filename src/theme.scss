@@ -1,0 +1,57 @@
+$flatcap-0: #1c1e22; // Deep Twilight (Dark Backgrounds & Base Elements)
+$flatcap-1: #23262b;
+$flatcap-2: #2d3036;
+$flatcap-3: #373a40;
+$flatcap-4: #42474e;
+
+$flatcap-5: #d0d2d6; // Dawnlight (Light Text & UI Elements)
+$flatcap-6: #e4e6eb;
+$flatcap-7: #ecedf0;
+$flatcap-8: #f4f5f7;
+$flatcap-9: #fcfdff;
+
+$flatcap-10: #6b7f8e; // Ocean Blues (Primary UI Components & Syntax)
+$flatcap-11: #7a90a2;
+$flatcap-12: #8ea5b9;
+$flatcap-13: #a3bbce;
+$flatcap-14: #b8d1e3;
+
+$flatcap-15-error: #e06c75; // Vivid Accents (States & Special Syntax)
+$flatcap-16-warning: #d19a66;
+$flatcap-17-success: #98c379;
+$flatcap-18-information: #c678dd;
+$flatcap-19-highlight: #56b6c2;
+
+/* Example Usage */
+body {
+  background-color: $flatcap-0;
+  color: $flatcap-6;
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: $flatcap-13;
+}
+
+a {
+  color: $flatcap-13;
+  text-decoration: none;
+
+  &:hover {
+    color: $flatcap-14;
+    text-decoration: underline;
+  }
+}
+
+.error {
+  color: $flatcap-15-error;
+}
+
+.warning {
+  color: $flatcap-16-warning;
+}
+
+.success {
+  color: $flatcap-17-success;
+}
