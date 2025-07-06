@@ -1,8 +1,9 @@
-# Flat Cap - A Minimal & Modern Theme
-
-![Flat Cap Theme Preview](images/readme_logo.svg)
-
-Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused coding experience.
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.svg?raw=true" alt="flatcap"/>
+</p>
+<p align="center">
+  Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused experience.
+</p>
 
 ## Philosophy
 
