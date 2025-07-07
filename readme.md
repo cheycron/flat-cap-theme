@@ -83,6 +83,3 @@ Used to indicate various states (error, warning, success) and to highlight speci
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_windowsterminal.png?raw=true" alt="Flatcap Windows Terminal"/>
 </p>
 
-## License
-
-This theme is released under the [MIT License](license.md).
