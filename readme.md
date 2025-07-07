@@ -69,11 +69,19 @@ Used to indicate various states (error, warning, success) and to highlight speci
 ## Example Implementations
 
 #### Visual Studio Code
-![DeepTwilight](images/demo_vscode.png)
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_vscode.png?raw=true" alt="Flatcap VSCode"/>
+</p>
+
 #### Obsidian
-![Dawnlight](images/demo_obsidian.png)
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_obsidian.png?raw=true" alt="Flatcap Obsidian"/>
+</p>
+
 #### Windows Terminal
-![OceanBlues](images/demo_windowsterminal.png)
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_windowsterminal.png?raw=true" alt="Flatcap Windows Terminal"/>
+</p>
 
 ## License
 
