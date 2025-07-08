@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.svg?raw=true" alt="flatcap"/>
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.png?raw=true" alt="flatcap"/>
 </p>
 <p align="center">
   Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused experience.
@@ -14,16 +14,16 @@ Flat Cap draws inspiration from the fantastic design logic of the **[Nord theme]
 The Flat Cap theme is built upon a carefully curated and expanded color palette, designed for granular control and visual harmony across various UI elements and syntax highlighting. The palette is divided into four main categories: Deep Twilight, Dawnlight, Ocean Blues, and Vivid Accents.
 
 <p align="center">
-  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_deeptwilight.svg?raw=true" alt="Deep Twilight"/>
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_deeptwilight.png?raw=true" alt="Deep Twilight"/>
 </p>
 <p align="center">
-  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_dawnlight.svg?raw=true" alt="Dawnlight"/>
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_dawnlight.png?raw=true" alt="Dawnlight"/>
 </p>
 <p align="center">
-  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_oceanblues.svg?raw=true" alt="Ocean Blues"/>
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_oceanblues.png?raw=true" alt="Ocean Blues"/>
 </p>
 <p align="center">
-  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_vividaccents.svg?raw=true" alt="Vivid Accents"/>
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_vividaccents.png?raw=true" alt="Vivid Accents"/>
 </p>
 
 ### Deep Twilight (Dark Backgrounds & Base Elements)
