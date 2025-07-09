@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.png?raw=true" alt="flatcap"/>
 </p>
+
 <p align="center">
   Flat Cap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused experience.
 </p>
+
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-blue.svg)](https://www.buymeacoffee.com/cheycron)
 
 ## Philosophy
 
@@ -69,17 +72,19 @@ Used to indicate various states (error, warning, success) and to highlight speci
 ## Example Implementations
 
 #### Visual Studio Code
+
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_vscode.png?raw=true" alt="Flatcap VSCode"/>
 </p>
 
 #### Obsidian
+
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_obsidian.png?raw=true" alt="Flatcap Obsidian"/>
 </p>
 
 #### Windows Terminal
+
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_windowsterminal.png?raw=true" alt="Flatcap Windows Terminal"/>
 </p>
-
