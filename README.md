@@ -68,17 +68,17 @@ Used to indicate various states (error, warning, success) and to highlight speci
 
 ## Example Implementations
 
-#### Visual Studio Code
+#### [Visual Studio Code](https://github.com/cheycron/flat-cap-vscode)
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_vscode.png?raw=true" alt="Flatcap VSCode"/>
 </p>
 
-#### Obsidian
+#### [Obsidian](https://github.com/cheycron/flat-cap-obsidian)
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_obsidian.png?raw=true" alt="Flatcap Obsidian"/>
 </p>
 
-#### Windows Terminal
+#### [Windows Terminal](https://github.com/cheycron/flat-cap-windows-terminal)
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_windowsterminal.png?raw=true" alt="Flatcap Windows Terminal"/>
 </p>
