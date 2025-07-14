@@ -19,11 +19,11 @@ The Flatcap theme is built upon a carefully curated and expanded color palette, 
 ### Deep Twilight (Dark Backgrounds & Base Elements)
 
 <p>
-  <img src="https://placehold.co/100x100/1c1e22/6b7f8e/png?text=%231c1e22" />
-  <img src="https://placehold.co/100x100/23262b/6b7f8e/png?text=%2323262b" />
-  <img src="https://placehold.co/100x100/2d3036/6b7f8e/png?text=%232d3036" />
-  <img src="https://placehold.co/100x100/373a40/6b7f8e/png?text=%23373a40" />
-  <img src="https://placehold.co/100x100/42474e/6b7f8e/png?text=%2342474e" />
+  <img src="https://placehold.co/100x100/1c1e22/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/23262b/6b7f8e/png?font=source-sans-pro&text=%2323262b" />
+  <img src="https://placehold.co/100x100/2d3036/6b7f8e/png?font=source-sans-pro&text=%232d3036" />
+  <img src="https://placehold.co/100x100/373a40/6b7f8e/png?font=source-sans-pro&text=%23373a40" />
+  <img src="https://placehold.co/100x100/42474e/6b7f8e/png?font=source-sans-pro&text=%2342474e" />
 </p>
 
 These colors are primarily used for backgrounds, elevated UI elements, and low-priority components in dark ambiance designs.
@@ -37,11 +37,11 @@ These colors are primarily used for backgrounds, elevated UI elements, and low-p
 ### Dawnlight (Light Text & UI Elements)
 
 <p>
-  <img src="https://placehold.co/100x100/b0b4ba/6b7f8e/png?text=%231c1e22" />
-  <img src="https://placehold.co/100x100/c8ccda/6b7f8e/png?text=%231c1e22" />
-  <img src="https://placehold.co/100x100/dce0eb/6b7f8e/png?text=%231c1e22" />
-  <img src="https://placehold.co/100x100/eef1f6/6b7f8e/png?text=%231c1e22" />
-  <img src="https://placehold.co/100x100/f6f8fa/6b7f8e/png?text=%231c1e22" />
+  <img src="https://placehold.co/100x100/b0b4ba/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/c8ccda/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/dce0eb/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/eef1f6/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/f6f8fa/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
 </p>
 
 Perfect for main text, contrasting UI elements, and light backgrounds.
@@ -55,11 +55,11 @@ Perfect for main text, contrasting UI elements, and light backgrounds.
 ### Ocean Blues (Primary UI Components & Syntax)
 
 <p>
-  <img src="https://placehold.co/100x100/6b7f8e/42474e/png?text=%236b7f8e" />
-  <img src="https://placehold.co/100x100/7a90a2/42474e/png?text=%237a90a2" />
-  <img src="https://placehold.co/100x100/8ea5b9/42474e/png?text=%238ea5b9" />
-  <img src="https://placehold.co/100x100/a3bbce/42474e/png?text=%23a3bbce" />
-  <img src="https://placehold.co/100x100/b8d1e3/42474e/png?text=%23b8d1e3" />
+  <img src="https://placehold.co/100x100/6b7f8e/42474e/png?font=source-sans-pro&text=%236b7f8e" />
+  <img src="https://placehold.co/100x100/7a90a2/42474e/png?font=source-sans-pro&text=%237a90a2" />
+  <img src="https://placehold.co/100x100/8ea5b9/42474e/png?font=source-sans-pro&text=%238ea5b9" />
+  <img src="https://placehold.co/100x100/a3bbce/42474e/png?font=source-sans-pro&text=%23a3bbce" />
+  <img src="https://placehold.co/100x100/b8d1e3/42474e/png?font=source-sans-pro&text=%23b8d1e3" />
 </p>
 
 The core of the palette, used for key UI components and code syntax, now with a more noticeable tonal progression.
@@ -73,11 +73,11 @@ The core of the palette, used for key UI components and code syntax, now with a 
 ### Vivid Accents (States & Special Syntax)
 
 <p>
-  <img src="https://placehold.co/100x100/e06c75/42474e/png?text=%23e06c75" />
-  <img src="https://placehold.co/100x100/d19a66/42474e/png?text=%23d19a66" />
-  <img src="https://placehold.co/100x100/98c379/42474e/png?text=%2398c379" />
-  <img src="https://placehold.co/100x100/c678dd/42474e/png?text=%23c678dd" />
-  <img src="https://placehold.co/100x100/56b6c2/42474e/png?text=%2356b6c2" />
+  <img src="https://placehold.co/100x100/e06c75/42474e/png?font=source-sans-pro&text=%23e06c75" />
+  <img src="https://placehold.co/100x100/d19a66/42474e/png?font=source-sans-pro&text=%23d19a66" />
+  <img src="https://placehold.co/100x100/98c379/42474e/png?font=source-sans-pro&text=%2398c379" />
+  <img src="https://placehold.co/100x100/c678dd/42474e/png?font=source-sans-pro&text=%23c678dd" />
+  <img src="https://placehold.co/100x100/56b6c2/42474e/png?font=source-sans-pro&text=%2356b6c2" />
 </p>
 
 Used to indicate various states (error, warning, success) and to highlight specific syntax elements.
