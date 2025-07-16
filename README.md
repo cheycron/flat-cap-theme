@@ -6,8 +6,6 @@
   Flatcap is a dark, minimalist, and eye-friendly theme meticulously crafted to provide a comfortable and focused experience.
 </p>
 
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-blue.svg)](https://www.buymeacoffee.com/cheycron)
-
 ## Philosophy
 
 Flatcap draws inspiration from the fantastic design logic of the **[Nord theme](https://github.com/nordtheme/nord)**, embracing its principles of calm, clean aesthetics, and a dimmed pastel color approach. This results in a theme that is both familiar in its minimalist comfort and fresh in its distinct, modern color scheme.
@@ -19,74 +17,74 @@ The Flatcap theme is built upon a carefully curated and expanded color palette, 
 ### Deep Twilight (Dark Backgrounds & Base Elements)
 
 <p>
-  <img src="https://placehold.co/100x100/1c1e22/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
-  <img src="https://placehold.co/100x100/23262b/6b7f8e/png?font=source-sans-pro&text=%2323262b" />
-  <img src="https://placehold.co/100x100/2d3036/6b7f8e/png?font=source-sans-pro&text=%232d3036" />
-  <img src="https://placehold.co/100x100/373a40/6b7f8e/png?font=source-sans-pro&text=%23373a40" />
-  <img src="https://placehold.co/100x100/42474e/6b7f8e/png?font=source-sans-pro&text=%2342474e" />
+  <img src="https://placehold.co/100x100/121418/5e81ac/png?font=source-sans-pro&text=%23121418" />
+  <img src="https://placehold.co/100x100/191c22/5e81ac/png?font=source-sans-pro&text=%23191c22" />
+  <img src="https://placehold.co/100x100/23272f/5e81ac/png?font=source-sans-pro&text=%2323272f" />
+  <img src="https://placehold.co/100x100/303540/5e81ac/png?font=source-sans-pro&text=%23303540" />
+  <img src="https://placehold.co/100x100/484f5c/5e81ac/png?font=source-sans-pro&text=%23484f5c" />
 </p>
 
-These colors are primarily used for backgrounds, elevated UI elements, and low-priority components in dark ambiance designs.
+These colors form the foundational layers of a dark interface, creating a sense of depth and focus. They are ideal for establishing a clear visual hierarchy, from the main application window to interactive surfaces.
 
-- **Flatcap 0**: `#1c1e22` - Interface base, the darkest tone.
-- **Flatcap 1**: `#23262b` - Secondary panel backgrounds, subtle UI elements.
-- **Flatcap 2**: `#2d3036` - Elevated UI element backgrounds, active editor lines, containers.
-- **Flatcap 3**: `#373a40` - Borders, separators, code comments, secondary text.
-- **Flatcap 4**: `#42474e` - Subtle shadows, semi-transparent overlays, highly muted text.
+- **Flatcap 0**: `#121418` - **Main Background**: The deepest shade, perfect for the primary application background or the editor surface. It makes foreground elements stand out, reducing visual noise and helping the user focus on the content.
+- **Flatcap 1**: `#191c22` - **Secondary Surfaces**: Slightly lighter, this color is ideal for secondary panels like sidebars, tree views, or inactive tabs. It subtly separates auxiliary sections from the main content area without creating a harsh contrast.
+- **Flatcap 2**: `#23272f` - **Elevated Elements & Hover States**: Used for surfaces that appear "closer" to the user, such as modal dialogs, pop-up menus, or cards. It also works perfectly as a hover state for elements using Flatcap 1, providing clear interactive feedback.
+- **Flatcap 3**: `#303540` - **Borders & Dividers**: The ideal choice for creating subtle separation. Use it for borders on panels, dividers in lists, or rulers in an editor. It's also excellent for secondary text, like code comments or placeholder hints in input fields, that should be present but not distracting.
+- **Flatcap 4**: `#484f5c` - **Subtle Details & Disabled States**: Perfect for UI details that require minimal emphasis, such as subtle drop shadows, scrollbar tracks, or the background of a disabled button. It can also be used for highly muted, non-essential text.
 
 ### Dawnlight (Light Text & UI Elements)
 
 <p>
-  <img src="https://placehold.co/100x100/b0b4ba/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
-  <img src="https://placehold.co/100x100/c8ccda/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
-  <img src="https://placehold.co/100x100/dce0eb/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
-  <img src="https://placehold.co/100x100/eef1f6/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
-  <img src="https://placehold.co/100x100/f6f8fa/6b7f8e/png?font=source-sans-pro&text=%231c1e22" />
+  <img src="https://placehold.co/100x100/b2b6bf/5e81ac/png?font=source-sans-pro&text=%23b2b6bf" />
+  <img src="https://placehold.co/100x100/bfc2ca/5e81ac/png?font=source-sans-pro&text=%23bfc2ca" />
+  <img src="https://placehold.co/100x100/cbced5/5e81ac/png?font=source-sans-pro&text=%23cbced5" />
+  <img src="https://placehold.co/100x100/d8dadf/5e81ac/png?font=source-sans-pro&text=%23d8dadf" />
+  <img src="https://placehold.co/100x100/e4e6e9/5e81ac/png?font=source-sans-pro&text=%23e4e6e9" />
 </p>
 
-Perfect for main text, contrasting UI elements, and light backgrounds.
+This group provides the clean, legible text and bright surfaces essential for a comfortable reading experience and a crisp, modern look in both dark and light themes. The tonal progression has been softened to offer a more delicate and refined contrast.
 
-- **Flatcap 5**: `#b0b4ba` - Low-contrast text in dark mode, main text in light mode.
-- **Flatcap 6**: `#c8ccda` - Main text in dark mode, clear UI elements.
-- **Flatcap 7**: `#dce0eb` - Light container backgrounds, interactive UI elements.
-- **Flatcap 8**: `#eef1f6` - Brightest tone for light base backgrounds, maximum highlights.
-- **Flatcap 9**: `#f6f8fa` - Very specific elements requiring highest contrast or purity, like light mode selection highlights.
+- **Flatcap 5**: `#b2b6bf` - **Low-Priority & Hint Text**: This darker, subtle shade is perfect for non-essential text like metadata, timestamps, or breadcrumbs. Its low contrast makes it ideal for information that should be available without drawing attention.
+- **Flatcap 6**: `#bfc2ca` - **Secondary Text & Comments**: A medium-contrast color, excellent for secondary text, descriptions, or code comments. It's clearly legible but distinct from the main text, helping to establish an informational hierarchy.
+- **Flatcap 7**: `#cbced5` - **Primary Text**: The standard for all primary body text in a dark interface. It offers exceptional readability against the Deep Twilight backgrounds without causing eye strain, striking a perfect balance between clarity and comfort.
+- **Flatcap 8**: `#d8dadf` - **Highlight Text & Titles**: Used to give prominence to headings, titles, or active menu items. Its added brightness sets it apart as an element of higher importance. In a light theme, it serves as an excellent base background.
+- **Flatcap 9**: `#e4e6e9` - **High-Impact Text & Focus Accents**: Reserved for the most important text elements or for the hover state on interactive text. Its maximum brightness ensures high visibility and can be used for high-contrast accents, like the fill of an active checkbox.
 
 ### Ocean Blues (Primary UI Components & Syntax)
 
 <p>
-  <img src="https://placehold.co/100x100/6b7f8e/42474e/png?font=source-sans-pro&text=%236b7f8e" />
-  <img src="https://placehold.co/100x100/7a90a2/42474e/png?font=source-sans-pro&text=%237a90a2" />
-  <img src="https://placehold.co/100x100/8ea5b9/42474e/png?font=source-sans-pro&text=%238ea5b9" />
-  <img src="https://placehold.co/100x100/a3bbce/42474e/png?font=source-sans-pro&text=%23a3bbce" />
-  <img src="https://placehold.co/100x100/b8d1e3/42474e/png?font=source-sans-pro&text=%23b8d1e3" />
+  <img src="https://placehold.co/100x100/5e81ac/484f5c/png?font=source-sans-pro&text=%235e81ac" />
+  <img src="https://placehold.co/100x100/81a1c1/484f5c/png?font=source-sans-pro&text=%2381a1c1" />
+  <img src="https://placehold.co/100x100/88c0d0/484f5c/png?font=source-sans-pro&text=%2388c0d0" />
+  <img src="https://placehold.co/100x100/8fbcbb/484f5c/png?font=source-sans-pro&text=%238fbcbb" />
+  <img src="https://placehold.co/100x100/95b1b0/484f5c/png?font=source-sans-pro&text=%2395b1b0" />
 </p>
 
-The core of the palette, used for key UI components and code syntax, now with a more noticeable tonal progression.
+This family of blues brings a calm yet confident energy to the interface. These colors are the primary actors, guiding the user's attention to interactive elements and making the UI feel responsive and intuitive.
 
-- **Flatcap 10**: `#6b7f8e` - Darker grayish-blue, for less prominent syntax elements or informational UI.
-- **Flatcap 11**: `#7a90a2` - Medium blue for classes and operators, primary buttons.
-- **Flatcap 12**: `#8ea5b9` - Lighter and more distinctive blue for variables and selection highlights.
-- **Flatcap 13**: `#a3bbce` - Bright blue for strings, numbers, or active links, enhancing visibility.
-- **Flatcap 14**: `#b8d1e3` - Softer, ethereal blue, for decorative elements or very subtle colored backgrounds.
+- **Flatcap 10**: `#5e81ac` - **Subtle Actions & Informational Icons**: A darker, more reserved blue ideal for secondary buttons, informational icons, or unselected tabs. It indicates interactivity without demanding immediate attention.
+- **Flatcap 11**: `#81a1c1` - **Primary Buttons & Links**: The quintessential color for primary actions. Use it for "Submit", "Save", or "Apply" buttons. It's also perfect for hyperlinks within text, providing a clear visual cue for navigation.
+- **Flatcap 12**: `#88c0d0` - **Selection & Focus Highlights**: A brighter, more distinct blue perfect for highlighting selected items in a list, the active line in a code editor, or the border of a focused input field. It clearly communicates "what's currently active."
+- **Flatcap 13**: `#8fbcbb` - **Active States & Progress Indicators**: This vibrant, almost turquoise blue is excellent for the active state of a toggle switch, a pressed button, or a progress bar. It draws the eye and confirms an action is underway or a state is "on."
+- **Flatcap 14**: `#95b1b0` - **Decorative Accents & Subtle Backgrounds**: A soft, ethereal blue perfect for decorative elements like notification dots, subtle background highlights for the "featured" section of a card, or the glow effect on a focused element.
 
 ### Vivid Accents (States & Special Syntax)
 
 <p>
-  <img src="https://placehold.co/100x100/e06c75/42474e/png?font=source-sans-pro&text=%23e06c75" />
-  <img src="https://placehold.co/100x100/d19a66/42474e/png?font=source-sans-pro&text=%23d19a66" />
-  <img src="https://placehold.co/100x100/98c379/42474e/png?font=source-sans-pro&text=%2398c379" />
-  <img src="https://placehold.co/100x100/c678dd/42474e/png?font=source-sans-pro&text=%23c678dd" />
-  <img src="https://placehold.co/100x100/56b6c2/42474e/png?font=source-sans-pro&text=%2356b6c2" />
+  <img src="https://placehold.co/100x100/ff70a6/484f5c/png?font=source-sans-pro&text=%23ff70a6" />
+  <img src="https://placehold.co/100x100/ffd670/484f5c/png?font=source-sans-pro&text=%23ffd670" />
+  <img src="https://placehold.co/100x100/84dcc6/484f5c/png?font=source-sans-pro&text=%2384dcc6" />
+  <img src="https://placehold.co/100x100/68b6ef/484f5c/png?font=source-sans-pro&text=%2368b6ef" />
+  <img src="https://placehold.co/100x100/00a8e0/484f5c/png?font=source-sans-pro&text=%2300a8e0" />
 </p>
 
-Used to indicate various states (error, warning, success) and to highlight specific syntax elements.
+A palette of expressive colors used to communicate important states and draw attention to critical information. They should be used purposefully to ensure their impact is not diluted.
 
-- **Flatcap 15**: `#e06c75` (Error) - Red for error messages.
-- **Flatcap 16**: `#d19a66` (Warning) - Orange for warnings.
-- **Flatcap 17**: `#98c379` (Success) - Green for success indications.
-- **Flatcap 18**: `#c678dd` (Information) - Purple for informational messages.
-- **Flatcap 19**: `#56b6c2` (Highlight) - Cyan for syntax highlighting, prominent visual accents.
+- **Flatcap 15**: `#ff70a6` - **Errors & Deletion**: Use for form validation errors, failed connection messages, or the background of a "Delete" confirmation button. It immediately signals a problem or a destructive action.
+- **Flatcap 16**: `#ffd670` - **Warnings & Attention**: Ideal for warning notifications, highlighting potentially risky actions, or indicating that a feature is in "beta." It urges caution without being as alarming as the error color.
+- **Flatcap 17**: `#84dcc6` - **Success & Confirmation**: Perfect for success messages ("Your changes have been saved"), validation checkmarks, or confirming a successful transaction. It provides positive reinforcement to the user.
+- **Flatcap 18**: `#68b6ef` - **Informational Tips & New Features**: A friendly, neutral color for informational alerts, "did you know?" tips, or highlighting a new feature. It invites discovery without interrupting the user's workflow.
+- **Flatcap 19**: `#00a8e0` - **Key Syntax & Call-to-Action**: A vibrant cyan that serves as a powerful accent. Use it to highlight the most important keywords in code, or for a special call-to-action button that needs to stand out from the primary blue actions.
 
 ## Example Implementations
 
@@ -107,3 +105,6 @@ Used to indicate various states (error, warning, success) and to highlight speci
 <p align="center">
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_windowsterminal.png?raw=true" alt="Flatcap Windows Terminal"/>
 </p>
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cheycron)
